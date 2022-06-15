@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning about machine learning applied to soils.
 - 💞️ I’m looking to collaborate on studies related to soils (python, machine learning, spectral data).
 - 📫 How to reach me: gustavopereira5000@gmail.com 
-
+![status up](https://napkin-examples.npkn.net/site-status-badge/)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gustavoep&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 
