@@ -1,5 +1,5 @@
 <h1 align="center"> Gustavo Eduardo Pereira </h1>
-!\[alt text\](https://badgen.net/badge/hello/world/red?icon=twitter)
+!\[my badge\](https://badgen.net/badge/hello/world/red?icon=twitter)
 
 - 👋  Hi, I’m @gustavoep
 - 👀  I’m interested in python applied to soil science.
