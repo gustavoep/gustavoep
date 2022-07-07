@@ -3,7 +3,7 @@
 
 
 - 👋  Hi, I’m @gustavoep
-- 👀  I’m interested in [python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) applied to soil science.
+- 👀  I’m interested in: <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
 - 🌱 I’m currently learning about machine learning applied to soils.
 - 💞️ I’m looking to collaborate on studies related to soils (python, machine learning, spectral data).
 - 📫 How to reach me: 
